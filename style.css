@@ -228,7 +228,8 @@ a {
 }
 
 .material-symbols-outlined {
-    color: white;
+    margin-left: 20px;
+    color: black;
 }
 
 .lower-menu {
